@@ -22,7 +22,7 @@
 
 .cabecalho .cabecalho__nav .cabecalho__nav--line {
   width: 100%;
-  border-bottom: 1rem solid black;
+  border-bottom: 0.1rem solid black;
 }
 
 .cabecalho .cabecalho__nav .cabecalho__nav--lista {
